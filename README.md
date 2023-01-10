@@ -1,2 +1,2 @@
-# Instagram-
-insta copy 
+#IG
+IG Clone
